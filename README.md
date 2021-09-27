@@ -1,6 +1,6 @@
-Day 69
+Flask-Blog
 ================================================================================
 
-Today I made enhancements to the Blog website by adding login/signup functionality by using flask login, relational databases to add comments as an user and CRUD operations for a post only visible to the admin user for the website.
+A simple flask Blog made using flask and python.
 
 ![GIF](Blog_Auth.gif)
